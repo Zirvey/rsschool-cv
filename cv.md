@@ -1,4 +1,4 @@
-Temirlan Kakishev
-Zirvey
+#Temirlan Kakishev
+#Zirvey
 
-HTML, CSS, JavaScript
+#HTML, CSS, JavaScript
