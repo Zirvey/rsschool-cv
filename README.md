@@ -1,2 +1,2 @@
 # rsschool-cv
-https://GITHUB-Zirvey.github.io/rsschool-cv/cv
+https://Zirvey.github.io/rsschool-cv/cv
