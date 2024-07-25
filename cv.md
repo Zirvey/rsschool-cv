@@ -1,3 +1,3 @@
 Temirlan Kakishev
-Zirvez
+Zirvey
 HTML, CSS, JavaScript
